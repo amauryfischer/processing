@@ -1,6 +1,12 @@
 /**
-* On crée une classe nommée Ball
+* !IMPORTANT!
+* Si vous ne connaissez pas les classes lisez ceci :
+* https://github.com/amauryfischer/processing/tree/master/class
+* n'hésitez pas a me faire des remontées si vous ne comprenez pas
+* bon chance :p
 **/
+
+//On crée une classe nommée Ball
 class Ball {
   
  // la classe possède 4 proprietes, sa position x et y et son vecteur vitesse x et y
